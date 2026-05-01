@@ -1,0 +1,28 @@
+# Lab Experiments – Containerization & DevOps
+
+This section contains all the **laboratory experiments** performed as part of the **Containerization and DevOps** coursework.  
+Each experiment is designed to provide hands-on exposure to core DevOps concepts, tools, and practices through practical implementation.
+
+The experiments are organized sequentially and focus on building a strong foundation in containerization, automation, and deployment workflows.
+
+
+
+## 📋 List of Experiments
+
+The table below provides an overview of the lab experiments included in this repository:
+
+| Experiment No.                          | Title                                        | Result   | 
+|:---------------------------------------:|:--------------------------------------------:|:--------:|
+| [Experiment-1](./Experiment-1/)| VM vs Container - Utilization | The experiment demonstrates that containers are significantly more lightweight and resource-efficient compared to virtual machines |
+| [Experiment-2](./Experiment-2/)| Docker Installation, Configuration, and Running Images | Docker images were successfully pulled, containers executed, and lifecycle commands performed. |
+| [Experiment-3](./Experiment-3/)| Docker Deploy NGINX Using Different Base Images and Comparing Image Layers | Use Official nginx on production deployment whereas Alpine-Based Image with Microservices. |
+| [Experiment-4](./Experiment-4/)| Containerizing Applications with Dockerfile | Containerizing prevents from dependency issue or version outages |
+| [Experiment-5](./Experiment-5/)| Docker - Volumes, Environment Variables, Monitoring & Networks | Essential Docker features for building, configuring, and managing production-ready containerized applications. |
+| [Experiment-6](./Experiment-6/)| Docker Run vs Docker-Compose | Compose is an easy way to create containers |
+| [Experiment-7](./Experiment-7/)| CI/CD via Jenkins | Automate Build via Jenkins |
+| [Experiment-9](./Experiment-9/)| Ansible | Automate Infrastructure Orchestartion & Updations |
+| [Experiment-10](./Experiment-10/)| Working with SonarQube | Generate Code Quality Report via SonarQube |
+| [Experiment-11](./Experiment-11/)| Orchestration with Docker Swarm  | Compose defines the application. Swarm runs it reliably. |
+| [Experiment-12](./Experiment-12/)| Kubernetes | Kubernetes automatically decides where to run your app |
+
+
