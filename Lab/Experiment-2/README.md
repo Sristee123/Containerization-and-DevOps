@@ -5,7 +5,7 @@
 ```bash
 docker pull nginx
 ```
-![Check Version](./images/1.png)
+![Check Version](./Images/1.png)
 
 
 **Step 2: Run Container with Port Mapping**
@@ -13,7 +13,7 @@ docker pull nginx
 ```bash
 docker run -d -p 8080:80 nginx
 ```
-![Run nginx container](./images/2.png)
+![Run nginx container](./Images/2.png)
 
 
 **Step 3: Verify Running Containers**
@@ -21,7 +21,7 @@ docker run -d -p 8080:80 nginx
 ```bash
 docker ps
 ```
-![Verify container](./images/3.png)
+![Verify container](./Images/3.png)
 
 
 **Step 4: Stop Container**
@@ -29,7 +29,7 @@ docker ps
 ```bash
 docker stop <container_id>
 ```
-![Stop Container](./images/4.png)
+![Stop Container](./Images/4.png)
 
 
 **Step 5: Remove Container**
@@ -37,7 +37,7 @@ docker stop <container_id>
 ```bash
 docker rm <container_id>
 ```
-![Remove Container](./images/5.png)
+![Remove Container](./Images/5.png)
 
 
 **Step 5: Remove Image**
@@ -45,7 +45,7 @@ docker rm <container_id>
 ```bash
 docker rmi nginx
 ```
-![Remove Images](./images/6.png)
+![Remove Images](./Images/6.png)
 
 
 **Result**
